@@ -64,3 +64,13 @@ Brought the data to life and extracted valuable insights for the business. Built
 
   ![image](https://github.com/Meenakshipooranik/Social-Buzz/assets/169204410/e71b6413-6710-42a2-b1e0-e49a2a847c9b)
 
+  ![Top 5 Categories](https://github.com/Meenakshipooranik/Social-Buzz/assets/169204410/85594c2d-74a4-411a-aa0c-69319963e2aa)
+
+![Picture2](https://github.com/Meenakshipooranik/Social-Buzz/assets/169204410/892deea2-d9bf-4cc9-ba68-92af6ddd19bd)
+
+![reaction count](https://github.com/Meenakshipooranik/Social-Buzz/assets/169204410/4b6b9261-d4e4-4eb3-80d9-ecfefeed50e3)
+
+![posts by month](https://github.com/Meenakshipooranik/Social-Buzz/assets/169204410/a98132b0-5554-4799-ab52-c90c091edf14)
+
+
+
