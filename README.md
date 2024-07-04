@@ -1,5 +1,6 @@
 # Social-Buzz
-Accenture Virtual Internship
+
+**Accenture Virtual Internship**
 
 # Project Overview:
 
@@ -60,3 +61,6 @@ Brought the data to life and extracted valuable insights for the business. Built
 - How many reactions are there to the most popular category?
 
 - What was the month with the most posts?
+
+  ![image](https://github.com/Meenakshipooranik/Social-Buzz/assets/169204410/e71b6413-6710-42a2-b1e0-e49a2a847c9b)
+
