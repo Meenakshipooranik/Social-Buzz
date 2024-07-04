@@ -13,10 +13,13 @@ Social Buzz is a rapidly expanding technology unicorn in need of swift adaptatio
 
 # Deliverables:
 
-Excel Dashboard Image: Dashboard created for Social Buzz.
-Cleaned Datasets: CSV files containing cleaned datasets used for analysis.
-PowerPoint Presentation: Presentation slides communicating key insights and recommendations for the client.
-Company Details Document: Document providing background information about the client, Social Buzz.
+* Excel Dashboard Image: Dashboard created for Social Buzz.
+  
+* Cleaned Datasets: CSV files containing cleaned datasets used for analysis.
+  
+* PowerPoint Presentation: Presentation slides communicating key insights and recommendations for the client.
+  
+* Company Details Document: Document providing background information about the client, Social Buzz.
 
 # Project Understanding:
 
@@ -24,13 +27,13 @@ Quickly get up to speed with the business problem being addressed, project requi
 
 Read the brief from Social Buzz to:
 
-Understand the client and business problem at hand.
+* Understand the client and business problem at hand.
 
-Identify the requirements that need to be delivered for this project.
+* Identify the requirements that need to be delivered for this project.
 
-Identify which tasks to focus on as a Data Analyst.
+* Identify which tasks to focus on as a Data Analyst.
 
-Read the internal stakeholders chart to better understand the roles & responsibilities of the team. As a Data Analyst, I have been tasked with the analysis of sample data sets with visualizations to understand the popularity of different content categories.
+*Read the internal stakeholders chart to better understand the roles & responsibilities of the team. As a Data Analyst, I have been tasked with the analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
 # Data Cleaning & Modeling:
 
@@ -40,11 +43,11 @@ Read & understood the data model to identify which datasets will be required to 
 
 Cleaned the data by:
 
-Removing rows that have values that are missing,
+- Removing rows that have values that are missing,
 
-Changing the data type of some values within a column, and
+- Changing the data type of some values within a column, and
 
-Removing columns that are not relevant to this task.
+- Removing columns that are not relevant to this task.
 
 Created a final data set by merging three tables together: Reaction, Content, and Reaction Types data sets. Performed data modeling by merging the three data sets, using the VLOOKUP formula. Figured out the Top 5 performing categories aggregating the total scores by category.
 
@@ -52,8 +55,8 @@ Brought the data to life and extracted valuable insights for the business. Built
 
 # Data Visualization & Story Telling:
 
-How many unique categories are there?
+- How many unique categories are there?
 
-How many reactions are there to the most popular category?
+- How many reactions are there to the most popular category?
 
-What was the month with the most posts?
+- What was the month with the most posts?
