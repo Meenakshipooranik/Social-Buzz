@@ -5,9 +5,11 @@ Accenture Virtual Internship
 
 Social Buzz is a rapidly expanding technology unicorn in need of swift adaptation to its large-scale global operations. Accenture is conducting a 3-month POC centered on the following objectives:
 
--An audit of big data practice
--Recommendations for a successful IPO
--Analysis to find Social Buzz's top 5 most popular categories of content
+* An audit of big data practice
+
+* Recommendations for a successful IPO
+
+* Analysis to find Social Buzz's top 5 most popular categories of content
 
 # Deliverables:
 
