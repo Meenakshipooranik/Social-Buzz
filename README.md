@@ -23,8 +23,11 @@ Quickly get up to speed with the business problem being addressed, project requi
 Read the brief from Social Buzz to:
 
 Understand the client and business problem at hand.
+
 Identify the requirements that need to be delivered for this project.
+
 Identify which tasks to focus on as a Data Analyst.
+
 Read the internal stakeholders chart to better understand the roles & responsibilities of the team. As a Data Analyst, I have been tasked with the analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
 # Data Cleaning & Modeling:
@@ -36,13 +39,19 @@ Read & understood the data model to identify which datasets will be required to 
 Cleaned the data by:
 
 Removing rows that have values that are missing,
+
 Changing the data type of some values within a column, and
+
 Removing columns that are not relevant to this task.
+
 Created a final data set by merging three tables together: Reaction, Content, and Reaction Types data sets. Performed data modeling by merging the three data sets, using the VLOOKUP formula. Figured out the Top 5 performing categories aggregating the total scores by category.
 
 Brought the data to life and extracted valuable insights for the business. Built a PowerPoint presentation to organize the findings on Social Buzz's content performance. Using PivotTables, created data charts that effectively illustrate the data analysis. Some of the interesting insights that were shared include:
 
 # Data Visualization & Story Telling:
+
 How many unique categories are there?
+
 How many reactions are there to the most popular category?
+
 What was the month with the most posts?
